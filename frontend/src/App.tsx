@@ -1,8 +1,8 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import NotificationButton from './components/NotificationButton'
-import Header from './components/Header'
-import SalesCard from './components/SalesCard'
+import { useState } from 'react';
+import reactLogo from './assets/react.svg';
+import NotificationButton from './components/NotificationButton';
+import Header from './components/Header';
+import SalesCard from './components/SalesCard';
 
 function App() {
   return (
@@ -19,4 +19,4 @@ function App() {
   )
 }
 
-export default App
+export default App;
